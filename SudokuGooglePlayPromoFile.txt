@@ -1,1 +1,1 @@
-{"gameName":"Water Sort","storeLink":"https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames","imageUrls":["https://i.ibb.co/PG52fZ0/1.png"]}
+{"gameName":"Water Sort","storeLink":"https://www.samsungapps.com/appquery/appDetail.as?appId=com.epicroyalegames.watersort.puzzlegames","imageUrls":["https://i.ibb.co/HCDTwtx/sudoku-crosspromo.jpg"]}
