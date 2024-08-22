@@ -1,0 +1,24 @@
+[
+
+{
+            "package": "https://appgallery.cloud.huawei.com/marketshare/app/C107532947",
+            "title": "All Document Reader",
+            "short_desc": "All in one document reader for phones & tablets",
+            "icon": "https://images2.imgbox.com/c2/8b/edgSZNXB_o.png",
+            "feature": "https://images2.imgbox.com/89/e9/fQBI1wLE_o.png"
+        },
+        {
+            "package": "https://appgallery.cloud.huawei.com/marketshare/app/C107625693",
+            "title": "Qr Code Scanner",
+            "short_desc": "Smart Qr code & barcode scanner and generator",
+            "icon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png",
+            "feature": "https://images2.imgbox.com/ee/ea/sVQ8XwuR_o.png"
+        },
+        {
+            "package": "https://appgallery.cloud.huawei.com/marketshare/app/C107685779",
+            "title": "Duplicate Files Remover",
+            "short_desc": "Clean your phone from duplicate files in one click!",
+            "icon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png",
+            "feature": "https://images2.imgbox.com/0a/07/6DZaN1bm_o.png"
+        }
+]
