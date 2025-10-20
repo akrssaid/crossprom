@@ -1,0 +1,23 @@
+[
+
+{
+            "package": "https://www.amazon.com/gp/product/B0FCNSB7C4",
+            "title": "Mp3 Juice",
+            "short_desc": "Non stop music for free!",
+            "icon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
+        },
+		
+        {
+            "package": "https://www.amazon.com/gp/product/B0CSWG76CC",
+            "title": "QR & Barcode Scanner Pro",
+            "short_desc": "Smart Qr code & barcode scanner and generator",
+            "icon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png"
+        },
+		
+        {
+            "package": "https://www.amazon.com/gp/product/B0DC1YX143",
+            "title": "Duplicate Files Remover",
+            "short_desc": "Clean your phone from duplicate files in one click!",
+            "icon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png"
+        }
+]
