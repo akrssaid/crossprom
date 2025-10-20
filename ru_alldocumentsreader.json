@@ -1,21 +1,20 @@
 [
-
-{
-            "package": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming",
-            "title": "Mp3 Juice",
-            "short_desc": "Free non stop music",
-            "icon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
-        },
-        {
-            "package": "https://apps.rustore.ru/app/com.epicappsgallery.qrbarcodescannerapp",
-            "title": "QR & Barcode Scanner Pro",
-            "short_desc": "Smart Qr code & barcode scanner and generator",
-            "icon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png"
-        },
-        {
-            "package": "https://apps.rustore.ru/app/com.handytoolsapps.duplicatefileremover",
-            "title": "Duplicate Files Remover",
-            "short_desc": "Clean your phone from duplicate files in one click!",
-            "icon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png"
-        }
+    {
+        "package": "https://apps.rustore.ru/app/com.epicroyaleapps.mp3juicemusicstreaming",
+        "title": "Mp3 Juice",
+        "short_desc": "Бесплатная музыка без остановок",
+        "icon": "https://i.ibb.co/ynWwhLB9/mp3Juice.png"
+    },
+    {
+        "package": "https://apps.rustore.ru/app/com.epicappsgallery.qrbarcodescannerapp",
+        "title": "QR & Barcode Scanner Pro",
+        "short_desc": "Умный сканер и генератор QR-кодов и штрих-кодов",
+        "icon": "https://images2.imgbox.com/d5/5e/s0xr0Znt_o.png"
+    },
+    {
+        "package": "https://apps.rustore.ru/app/com.handytoolsapps.duplicatefileremover",
+        "title": "Duplicate Files Remover",
+        "short_desc": "Очистите телефон от дубликатов файлов одним кликом!",
+        "icon": "https://images2.imgbox.com/ec/3c/hnAk5sQu_o.png"
+    }
 ]
